@@ -64,7 +64,7 @@ The project was evaluated based on Accuracy, Precision, Recall, and F1-Score. Wh
 ## 📄 Documentation
 For detailed insights into the hyperparameters, architectural choices, and full literature review, please refer to the following documents in this repository:
 * `FYP CM3070 Final Report.pdf`
-* `Final Term Submission Draft - Tomato Disease Detection.pdf` (Jupyter Export)
+* `Final Term Submission Draft - Tomato Disease Detection.ipynb` (Jupyter Export)
 
 ## 👨‍💻 Author
 **Harish Dubey**
